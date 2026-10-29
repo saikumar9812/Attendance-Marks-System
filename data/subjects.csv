@@ -1,0 +1,12 @@
+subject_code,name,credits,semester_id,teacher_id
+CS301,Data Structures,4,SEM3,T01
+CS302,Discrete Mathematics,3,SEM3,T05
+CS303,Digital Logic Design,3,SEM3,T03
+CS304,Object Oriented Programming,4,SEM3,T02
+HS301,Professional Communication,2,SEM3,T06
+CS401,Database Management Systems,4,SEM4,T01
+CS402,Operating Systems,4,SEM4,T02
+CS403,Design and Analysis of Algorithms,4,SEM4,T03
+CS404,Computer Networks,3,SEM4,T04
+MA401,Probability and Statistics,3,SEM4,T05
+CS405,Software Engineering,3,SEM4,T06
